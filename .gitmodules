@@ -1,3 +1,6 @@
 [submodule "C/C_matrix"]
 	path = C/C_matrix
 	url = https://github.com/AmirZhaboev/C_matrix.git
+[submodule "C/C_string"]
+	path = C/C_string
+	url = https://github.com/AmirZhaboev/C_string.git
