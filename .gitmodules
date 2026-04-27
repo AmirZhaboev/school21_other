@@ -7,3 +7,6 @@
 [submodule "C_SimpleBashUtils"]
 	path = C_SimpleBashUtils
 	url = https://github.com/AmirZhaboev/C_SimpleBashUtils.git
+[submodule "C/C_SimpleBashUtils"]
+	path = C/C_SimpleBashUtils
+	url = https://github.com/AmirZhaboev/C_SimpleBashUtils.git
