@@ -22,3 +22,6 @@
 [submodule "DevOps/DevOps_Linux"]
 	path = DevOps/DevOps_Linux
 	url = https://github.com/AmirZhaboev/DevOps_Linux.git
+[submodule "DevOps_LinuxNetwork"]
+	path = DevOps_LinuxNetwork
+	url = https://github.com/AmirZhaboev/DevOps_LinuxNetwork.git
