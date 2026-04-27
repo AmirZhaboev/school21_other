@@ -4,3 +4,6 @@
 [submodule "C/C_string"]
 	path = C/C_string
 	url = https://github.com/AmirZhaboev/C_string.git
+[submodule "C_SimpleBashUtils"]
+	path = C_SimpleBashUtils
+	url = https://github.com/AmirZhaboev/C_SimpleBashUtils.git
