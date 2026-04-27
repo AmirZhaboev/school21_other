@@ -31,3 +31,6 @@
 [submodule "DevOps/DevOps_LinuxMonitoring"]
 	path = DevOps/DevOps_LinuxMonitoring
 	url = https://github.com/AmirZhaboev/DevOps_LinuxMonitoring.git
+[submodule "DevOps/DevOps_Docker"]
+	path = DevOps/DevOps_Docker
+	url = https://github.com/AmirZhaboev/DevOps_Docker.git
