@@ -10,3 +10,12 @@
 [submodule "C/C_SimpleBashUtils"]
 	path = C/C_SimpleBashUtils
 	url = https://github.com/AmirZhaboev/C_SimpleBashUtils.git
+[submodule "CPP_matrix"]
+	path = CPP_matrix
+	url = https://github.com/AmirZhaboev/CPP_matrix.git
+[submodule "CPP/CPP_matrix"]
+	path = CPP/CPP_matrix
+	url = https://github.com/AmirZhaboev/CPP_matrix.git
+[submodule "CPP/CPP_containers"]
+	path = CPP/CPP_containers
+	url = https://github.com/AmirZhaboev/CPP_containers.git
