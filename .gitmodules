@@ -19,3 +19,6 @@
 [submodule "CPP/CPP_containers"]
 	path = CPP/CPP_containers
 	url = https://github.com/AmirZhaboev/CPP_containers.git
+[submodule "DevOps/DevOps_Linux"]
+	path = DevOps/DevOps_Linux
+	url = https://github.com/AmirZhaboev/DevOps_Linux.git
