@@ -34,3 +34,6 @@
 [submodule "DevOps/DevOps_Docker"]
 	path = DevOps/DevOps_Docker
 	url = https://github.com/AmirZhaboev/DevOps_Docker.git
+[submodule "SQL/SQL_Bootcamp"]
+	path = SQL/SQL_Bootcamp
+	url = https://github.com/AmirZhaboev/SQL_Bootcamp.git
